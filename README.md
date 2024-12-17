@@ -1,18 +1,22 @@
-## Getting Started
+## Day 1
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+- Revised the basic syntax of Java
+- Revised data types in Java
+- Revised functions, function parameters, pass by value nature of Java and scopes
+- Learnt about Arrays
+- Learnt about ArrayLists:
+      <p> - If you don't know how many elements you are going to input inside your array, you can discard the array data structure and use arrayList. It's like saying to Java, "Hey java i don't know how many 
+            elements, I am going to insert, so handle the size of the data structure for me.</p> 
 
-## Folder Structure
+### - Solved a problem where you have to swap 2 elements inside an array
+### - Solved a problem where you have to find max value in an array
 
-The workspace contains two folders by default, where:
+- Learnt about linear search
+        <p>It's linear in nature</p>
+        <p>Time complexity is o(n)</p>
+        <p>Best case is constant and best case time complexity is o(1)</p>
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+### -  Coded Linear search
+### - Solved a problem where you have to use linear search to find a specific character is present in a String.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Solved twoSum leetcode problem
