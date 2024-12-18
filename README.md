@@ -20,3 +20,14 @@
 ### - Solved a problem where you have to use linear search to find a specific character is present in a String.
 
 ## Solved twoSum leetcode problem
+
+# Day 2
+
+- Learnt about linear search in 2D Array
+### Solved a leetcode problem where you have to find the even number of digits in an array
+### Solved a leetcode problem where you have to find the maximum wealth of a person (2D array)
+- Learnt about binary Search
+      <p> - Binary search is simply a more optimised way to search in an array.</p>
+      <p> - But it only works with sorted arrays.</p>
+      <p> - The worst case time complexity of a binary search algorithm is o(log N) which makes it more efficient than using linear search algorithm.</p>
+- Solved 2 problems in binary search namely finding the ceil and floor of a target element
