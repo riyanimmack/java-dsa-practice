@@ -31,3 +31,13 @@
       <p> - But it only works with sorted arrays.</p>
       <p> - The worst case time complexity of a binary search algorithm is o(log N) which makes it more efficient than using linear search algorithm.</p>
 - Solved 2 problems in binary search namely finding the ceil and floor of a target element
+
+# Day 3
+
+Practiced problems on binary Search
+
+### Solved a leetcode problem where you have to find the smallest letter greater than target.
+### Solved a leetcode problem where you have to find the first and last position of a specific target
+
+Learnt about bubble sort
+- Coded bubble sort algorithm
